@@ -9,12 +9,9 @@
 
 ```javascript
 const Pranav = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  code: [Javascript, Typescript, Python, Machine Learning],
   tools: [React, Redux, Node, express, flask],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge:
-    "I am doing the #100DaysOfCode challenge focused on python",
 };
 ```
 
